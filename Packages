@@ -3,7 +3,6 @@ Architecture: iphoneos-arm
 Version: 1.0-2+debug
 Section: Tweaks
 Maintainer: Laxus
-Installed-Size: 296
 Depends: mobilesubstrate
 Filename: ./debs/com.laxus.iosgodsiapcracker_1.0-2+debug_iphoneos-arm.deb
 Size: 18412
@@ -11,6 +10,22 @@ MD5sum: f609fdef7758b9f6c5b544781c58ded7
 SHA1: 6c7108cb350d2442aebc099fe3b2feaf939a55d6
 SHA256: 9f4b9857cd7a8286a14b477e5796cc14d7d71224fb8d8987a5a0324c4871aeb7
 SHA512: 9308dc504382b27397b565fe8e1a3d90eda132cc32394486e9d26345fc515d2ed1b81bc1de9868c37f63b14b322c254ddc016e9445bb53d24c2de5d81d42950e
-Description: Free iAP Purchase for some apps and games, it doesn’t always work so don’t expect much. Turn on the tweak inside iOS Settings. This tweak is made by @Laxus for iOSGods.com.
+Description: Free iAP Purchase for some apps and games, it doesn’t always work so don’t expect much. This tweak is made by @Laxus for iOSGods.com.
 Name: iOSGods iAP Cracker
 Author: Laxus
+
+Package: com.25mao.leftpan
+Architecture: iphoneos-arm
+Version: 1.0-2
+Section: Tweaks
+Maintainer: Mao
+Depends: mobilesubstrate
+Filename: ./debs/com.25mao.leftpan_1.0-2_iphoneos-arm.deb
+Size: 44492
+MD5sum: 2625cbd3b6d0ecc0aba21203eb90ff61
+SHA1: 41ecf818bcd47cadd5d93bd58708ad66af9b9b9a
+SHA256: cf8f92867f27bb931d3476cacd5fe4ad70de6fa087e25f42c50f14082a8a25d9
+SHA512: 339541f60779540a8cc355d3f50b80e69e40af330a12513c079538452a6c9e2440afdaa6b294915987a508d02f8c7be7188299def1af945f5af35b42ed282b17
+Description: Swipe back gesture from right corner.
+Name: LeftPan
+Author: Mao
