@@ -14,18 +14,19 @@ Description: Free iAP Purchase for some apps and games, it doesn’t always work
 Name: iOSGods iAP Cracker
 Author: Laxus
 
-Package: com.25mao.leftpan
+Package: com.25mao.leftpan.en
 Architecture: iphoneos-arm
 Version: 1.0-2
 Section: Tweaks
 Maintainer: Mao
 Depends: mobilesubstrate
-Filename: ./debs/com.25mao.leftpan_1.0-2_iphoneos-arm.deb
+Conflicts: com.25mao.leftpan
+Filename: ./debs/com.25mao.leftpan.en_1.0-2_iphoneos-arm.deb
 Size: 44792
-MD5sum: 129f198609414aa34110c049c8cc1d34
-SHA1: c9afc20ab21eba94ed8a3a4e5e0fa50a78127060
-SHA256: e5a84ebec52a494eb877e43081379d3d1fa057c751474a37e6a50d3a4f8633e2
-SHA512: 7d2e2cdee3c1881fbec88dbb1269e83ebbff70bd0f7845d1bcc0df8555ba6cf143d6ab9e7fae55e00c45015bde2e8dcd82fd83b05f803b2523492a07e25914fe
+MD5sum: c72c7b6e27c1b64e3647305fa0ce5221
+SHA1: 276e14353c4e2bc3dfb2f7b57461de6a7026437c
+SHA256: 58c3c6afd12e1f4eefc3a40fa3c86dd69afb6d974d4408e462e4285c8bcfd87a
+SHA512: 91d053a1d499c7808b82feff9eeb0bca39663f22307e0b7c014f0954d92a0480928f63a5bc338141e7ba7034768dca2905492e0d02447024caaca9c898007865
 Description: Swipe back gesture from right corner.
 Name: LeftPan
 Author: Mao
