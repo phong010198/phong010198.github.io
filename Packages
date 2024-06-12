@@ -21,11 +21,11 @@ Section: Tweaks
 Maintainer: Mao
 Depends: mobilesubstrate
 Filename: ./debs/com.25mao.leftpan_1.0-2_iphoneos-arm.deb
-Size: 44492
-MD5sum: 2625cbd3b6d0ecc0aba21203eb90ff61
-SHA1: 41ecf818bcd47cadd5d93bd58708ad66af9b9b9a
-SHA256: cf8f92867f27bb931d3476cacd5fe4ad70de6fa087e25f42c50f14082a8a25d9
-SHA512: 339541f60779540a8cc355d3f50b80e69e40af330a12513c079538452a6c9e2440afdaa6b294915987a508d02f8c7be7188299def1af945f5af35b42ed282b17
+Size: 44792
+MD5sum: 129f198609414aa34110c049c8cc1d34
+SHA1: c9afc20ab21eba94ed8a3a4e5e0fa50a78127060
+SHA256: e5a84ebec52a494eb877e43081379d3d1fa057c751474a37e6a50d3a4f8633e2
+SHA512: 7d2e2cdee3c1881fbec88dbb1269e83ebbff70bd0f7845d1bcc0df8555ba6cf143d6ab9e7fae55e00c45015bde2e8dcd82fd83b05f803b2523492a07e25914fe
 Description: Swipe back gesture from right corner.
 Name: LeftPan
 Author: Mao
