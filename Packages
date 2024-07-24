@@ -87,7 +87,7 @@ MD5sum: 97fe34c4118976faffb5b7f8a0facf6e
 SHA1: 05a7ef3175de9b100281e2ba992c76869c265aa4
 SHA256: c93ea1390d6ffe376486875ad587e1742a28ad0fae671df930602c304fa0556e
 Description: Plugin and runtime library for using protobuf with Swift.
-Name: EeveeSpotify
+Name: SwiftProtobuf
 Author: Eevee
 
 Package: com.eevee.spotify
