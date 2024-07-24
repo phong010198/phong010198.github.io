@@ -74,3 +74,33 @@ SHA256: 1fa54b650593bb8eca720c2ebcdf151a6d970ab64a3876388bdb4305bb76c285
 Description: Awesome tweak for Instagram.
 Name: SCInsta
 Author: SoCuul
+
+Package: org.swift.protobuf.swiftprotobuf
+Architecture: iphoneos-arm
+Version: 1.26.0
+Section: Utilities
+Maintainer: Eevee
+Depends: mobilesubstrate
+Filename: ./debs/org.swift.protobuf.swiftprotobuf_1.26.0_iphoneos-arm.deb
+Size: 1271720
+MD5sum: 97fe34c4118976faffb5b7f8a0facf6e
+SHA1: 05a7ef3175de9b100281e2ba992c76869c265aa4
+SHA256: c93ea1390d6ffe376486875ad587e1742a28ad0fae671df930602c304fa0556e
+Description: Plugin and runtime library for using protobuf with Swift.
+Name: EeveeSpotify
+Author: Eevee
+
+Package: com.eevee.spotify
+Architecture: iphoneos-arm
+Version: 4.5
+Section: Tweaks
+Maintainer: Eevee
+Depends: mobilesubstrate, org.swift.protobuf.swiftprotobuf
+Filename: ./debs/com.eevee.spotify_4.5_iphoneos-arm.deb
+Size: 519824
+MD5sum: 981feb775919819790777273b30a6182
+SHA1: d7e53da37399ec4adb375f01d42b67b2ca574426
+SHA256: 6756d2ec64346f8a48c24859b615e5eb689533677f8c489ef6c654c40c7b5de8
+Description: Awesome tweak for Spotify.
+Name: EeveeSpotify
+Author: Eevee
