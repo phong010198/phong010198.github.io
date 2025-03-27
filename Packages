@@ -19,6 +19,7 @@ Author: Mao
 Maintainer: Mao
 Description: Swipe back gesture from right corner.
 Sileodepiction: https://phong010198.github.io/depictions/LeftPan.json
+Icon: file:///Library/PreferenceBundles/leftPanPrefs.bundle/icon@2x.png
 Section: Tweaks
 Architecture: iphoneos-arm
 Version: 1.0-2
