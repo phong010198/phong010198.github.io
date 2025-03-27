@@ -41,7 +41,37 @@ Size: 1141226
 MD5sum: 5411b4be57b2c05e7816c4783c1a79a0
 SHA1: 3e35144b31ddea0efd2472dbc289e6d27cfb96e7
 SHA256: ee9044b13fec857c96b868948b08815ed7c4da46221bd17335dea6a3fbaff92d
-Description: Awesome tweak for Twitter.
+Description: Awesome tweak for Twitter!
+Name: BHTwitter
+Author: BandarHelal
+
+Package: com.bandarhl.bhtwitter
+Architecture: iphoneos-arm
+Version: 4.3-1
+Section: Tweaks
+Maintainer: BandarHelal
+Depends: mobilesubstrate
+Filename: ./debs/com.bandarhl.bhtwitter_4.3-1+debug_iphoneos-arm.deb
+Size: 8692178
+MD5sum: dae680af8c1635feaa83344ca971a143
+SHA1: eb07180bec9f22d923f20e4f864dad235ed7ca52
+SHA256: 35bce089e989f0843eb4d8bab3de76c0c8cea616d15df26896acb99983b401e8
+Description: Awesome tweak for Twitter!
+Name: BHTwitter
+Author: BandarHelal
+
+Package: com.bandarhl.bhtwitter
+Architecture: iphoneos-arm64
+Version: 4.3-1
+Section: Tweaks
+Maintainer: BandarHelal
+Depends: mobilesubstrate
+Filename: ./debs/com.bandarhl.bhtwitter_4.3-1+debug_iphoneos-arm64.deb
+Size: 8692250
+MD5sum: 64deb0bf6deee1055a00997088a8392e
+SHA1: 1a9424e145f80abf98c6512fb0eaab21fe3e794a
+SHA256: 2686ffb3a39fd8b6cc710858f112f00e90116338188238c8d5cb734f8afe94e3
+Description: Awesome tweak for Twitter!
 Name: BHTwitter
 Author: BandarHelal
 
@@ -56,9 +86,39 @@ Size: 481732
 MD5sum: e5b410b6f43ac6146d8f506b1bd331a7
 SHA1: cdad39b612c61f6143c88f29e1302cf88f474ee8
 SHA256: 4bfeee68dff44248e0ee116b7745a788fac834a49735c6fdabe410918f7bba63
-Description: Awesome tweak for TikTok.
+Description: Awesome tweak for TikTok!
 Name: BHTikTok Plus
 Author: dvntm
+
+Package: com.raulsaeed.bhtiktok++
+Architecture: iphoneos-arm
+Version: 1.9.3
+Section: Tweaks
+Maintainer: raulsaeed
+Depends: mobilesubstrate
+Filename: ./debs/com.raulsaeed.bhtiktok++_1.9.3_iphoneos-arm.deb
+Size: 198240
+MD5sum: 2c9abca4ebe6cf5162f027b76050503f
+SHA1: 30982f50d159cd734a4b24076e9d5d27e82eaa40
+SHA256: 317eeb4ba6618a7aa088ff8a9634a5981b8a49db101f7132269bf5a11a24a20d
+Description: Awesome tweak for TikTok!
+Name: BHTikTok++
+Author: raulsaeed
+
+Package: com.raulsaeed.bhtiktok++
+Architecture: iphoneos-arm64
+Version: 1.9.3
+Section: Tweaks
+Maintainer: raulsaeed
+Depends: mobilesubstrate
+Filename: ./debs/com.raulsaeed.bhtiktok++_1.9.3_iphoneos-arm64.deb
+Size: 197884
+MD5sum: 87f958ff68b5f3b1da5bca7eb80b9c0c
+SHA1: f2da759285dba4890d642303e6a125fbb1462b6a
+SHA256: 6bd11e1d6b4e753a99913e3f806f2519f3c192e8c35134e3fef2a40f7af537f9
+Description: Awesome tweak for TikTok!
+Name: BHTikTok++
+Author: raulsaeed
 
 Package: com.socuul.scinsta
 Architecture: iphoneos-arm
@@ -71,36 +131,96 @@ Size: 769892
 MD5sum: a81ffa40eba834f1b459974a088b7ee2
 SHA1: 0b80e7f585616adcb9173bf7ff30f811cd94db1d
 SHA256: 1fa54b650593bb8eca720c2ebcdf151a6d970ab64a3876388bdb4305bb76c285
-Description: Awesome tweak for Instagram.
+Description: A feature-rich tweak for Instagram on iOS!
+Name: SCInsta
+Author: SoCuul
+
+Package: com.socuul.scinsta
+Architecture: iphoneos-arm
+Version: 0.6.0-1+debug
+Section: Tweaks
+Maintainer: SoCuul
+Depends: mobilesubstrate
+Filename: ./debs/com.socuul.scinsta_0.6.0_iphoneos-arm.deb
+Size: 769338
+MD5sum: d6f59dfc6297a05c029d1bb6b0782bf3
+SHA1: d70f4dc3d1dd1152bb490f38a7b6be890ab9073d
+SHA256: d43a9d0e1a6c4d22e05a60f257ef34a57105a84d827d3cfdf4cdf0de89c5e37e
+Description: A feature-rich tweak for Instagram on iOS!
+Name: SCInsta
+Author: SoCuul
+
+Package: com.socuul.scinsta
+Architecture: iphoneos-arm64
+Version: 0.6.0-1+debug
+Section: Tweaks
+Maintainer: SoCuul
+Depends: mobilesubstrate
+Filename: ./debs/com.socuul.scinsta_0.6.0_iphoneos-arm64.deb
+Size: 769336
+MD5sum: 09b05c55810d15d34c69903a23fab348
+SHA1: 432dba18fc67a62ad62bc42384f076b62b876c5e
+SHA256: 3474355fc9cb5239a036743f0e5a2764a0c61dfcdc31be6c8af87602c4e4ab2e
+Description: A feature-rich tweak for Instagram on iOS!
 Name: SCInsta
 Author: SoCuul
 
 Package: org.swift.protobuf.swiftprotobuf
 Architecture: iphoneos-arm
-Version: 1.26.0
+Version: 1.29.0
 Section: Utilities
 Maintainer: Eevee
 Depends: mobilesubstrate
-Filename: ./debs/org.swift.protobuf.swiftprotobuf_1.26.0_iphoneos-arm.deb
-Size: 1271720
-MD5sum: 97fe34c4118976faffb5b7f8a0facf6e
-SHA1: 05a7ef3175de9b100281e2ba992c76869c265aa4
-SHA256: c93ea1390d6ffe376486875ad587e1742a28ad0fae671df930602c304fa0556e
+Filename: ./debs/org.swift.protobuf.swiftprotobuf_1.29.0_iphoneos-arm.deb
+Size: 1445626
+MD5sum: 7e834a00e0d68568d39d9a142cc838ff
+SHA1: 0f9d7b2efcaa723e0d20ba4804fef02f46ca425c
+SHA256: 1e94534463a7066e25fb2a2a81c90b9e071c91a482677c5716d41dbe7c03c544
+Description: Plugin and runtime library for using protobuf with Swift.
+Name: SwiftProtobuf
+Author: Eevee
+
+Package: org.swift.protobuf.swiftprotobuf
+Architecture: iphoneos-arm64
+Version: 1.29.0
+Section: Utilities
+Maintainer: Eevee
+Depends: mobilesubstrate
+Filename: ./debs/org.swift.protobuf.swiftprotobuf_1.29.0_iphoneos-arm64.deb
+Size: 1446130
+MD5sum: 78e5915754b1068b212890ffe907dfd0
+SHA1: 6d0a4904f961407b2fbc7153bd9fae3dda27b8db
+SHA256: 82370ccb97937f4d7b4408f0c918d9136bad5a2c40f11d1aeb3337dda9f06b6f
 Description: Plugin and runtime library for using protobuf with Swift.
 Name: SwiftProtobuf
 Author: Eevee
 
 Package: com.eevee.spotify
 Architecture: iphoneos-arm
-Version: 4.5
+Version: 5.9
 Section: Tweaks
 Maintainer: Eevee
 Depends: mobilesubstrate, org.swift.protobuf.swiftprotobuf
-Filename: ./debs/com.eevee.spotify_4.5_iphoneos-arm.deb
-Size: 519824
-MD5sum: 981feb775919819790777273b30a6182
-SHA1: d7e53da37399ec4adb375f01d42b67b2ca574426
-SHA256: 6756d2ec64346f8a48c24859b615e5eb689533677f8c489ef6c654c40c7b5de8
+Filename: ./debs/com.eevee.spotify_5.9_iphoneos-arm.deb
+Size: 404554
+MD5sum: 13569fd063b804da2f46c4bdecac4119
+SHA1: 206e674c3f90e84bc98d3f3c26c50091107afbbf
+SHA256: 58ca3e672d2e84e5ed42184cddeb8ed0829d2694e3b5465291a4e904c4ae153a
+Description: Awesome tweak for Spotify.
+Name: EeveeSpotify
+Author: Eevee
+
+Package: com.eevee.spotify
+Architecture: iphoneos-arm64
+Version: 5.9
+Section: Tweaks
+Maintainer: Eevee
+Depends: mobilesubstrate, org.swift.protobuf.swiftprotobuf
+Filename: ./debs/com.eevee.spotify_5.9_iphoneos-arm64.deb
+Size: 404308
+MD5sum: 5f8f9aedcdc7acda6ad8108686fc01a5
+SHA1: f5bbd50b2db1c11929c8982e31feb866010313c3
+SHA256: 4f0518c1b3b1b115a557b610dcca2a2b46d78a8145b1cbcf86d7dbb137682446
 Description: Awesome tweak for Spotify.
 Name: EeveeSpotify
 Author: Eevee
