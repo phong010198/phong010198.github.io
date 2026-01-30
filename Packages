@@ -344,3 +344,19 @@ Installed-Size: 636
 MD5sum: 536009a11dad57e48a5563224eaffaff
 SHA1: e0fa412cb3c26718887edd834804c88909297079
 SHA256: 0036f28fcbdb165d4f58968a237ca9fe7b6ed33fea25b9a5eb1fc141f6bf5a09
+
+Package: com.rpgfarm.a-bypass
+Name: A-Bypass
+Author: Baw Appie <pp121324@gmail.com>
+Maintainer: Baw Appie <pp121324@gmail.com>
+Description: Super Jailbreak detection bypass!
+Section: Tweaks
+Architecture: iphoneos-arm
+Version: 1.5.2
+Depends: mobilesubstrate, com.muirey03.libmryipc, applist, com.rpgfarm.libaptoast, preferenceloader
+Filename: ./debs/com.rpgfarm.a-bypass_1.5.2.deb
+Size: 98400
+Installed-Size: 844
+MD5sum: 0754d76f510b0c3a5aaad64043ce8212
+SHA1: 472bcba031ca0fdc095d3eebdab1d71bfcb20b62
+SHA256: a336a04e50d4d934ddbe741d625af69286f90c2c0de90d1b3799a006ffd6b759
